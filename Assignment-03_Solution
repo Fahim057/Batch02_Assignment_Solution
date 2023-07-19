@@ -1,1 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Web Development</title>
+    <link rel="shortcut icon" type="image/x-icon" href="logo.png">
+    <style>
+        
+        h1{
+            background-color: #1c0e3c;
+            color: #fff;
+        }
+        #Front-end{
+            background-color: #1c0e3c;
+            color: #fff;
+        }
+        #HTML{
+            background-color: #7663c8;
+            color: #fff;
+        }
+        #CSS{
+            background-color:#7663c8;
+            color: #fff;
+        }
+        #JavaScript{
+            background-color:#7663c8;
+            color: #fff;
+        }
+        #backend{
+            background-color: #1c0e3c;
+            color: #fff;
+        }
+        #php{
+            background-color: #7663c8;
+            color: #fff;
+        }
+        #sql{
+            background-color:#7663c8;
+            color: #fff;
+        }
+        #java{
+            background-color:#7663c8;
+            color: #fff;
+        }
+        #form{
+            background: #7663c8;
+        }
+    </style>
+</head>
+<body>
+    <h1 align="center">Choose Your Favourite Course</h1>
+    <ol>
+        <li><a href="#Front-end">Front-end languages</a>
+            <dl>
+                <dt><a href="#HTML">HyperText Markup Language (HTML)</a> </dt>
+                    <dd>HTML, the standard markup language for creating web pages, is essential for front-end development because it gives developers a way to define the content and structure of a website or application. HTML tags define headings, paragraphs, lists, links, images, and other elements that make up a web page. 
+                        Despite the many advancements in web technologies, HTML remains a cornerstone of the web development industry. While newer technologies have emerged to enhance web development capabilities, HTML remains the foundation upon which they are built. </dd>
+               
+                <dt><a href="#CSS">Cascading Style Sheets(CSS)</a></dt> 
+                    <dd>CSS is a stylesheet language used for describing the look and layout of a document written in HTML. CSS is used to control the layout, colors, fonts, and other visual elements of a website or application. It allows developers to separate the content and structure defined in HTML from the visual presentation of the site, making it easier to maintain and update the appearance of a website. 
+                        CSS has become increasingly crucial in front-end development as the web becomes more visually sophisticated. It is now possible to create complex and highly-stylized web pages and applications, thanks to CSS's ability to control many visual elements. </dd>
+                
+                <dt><a href="#JavaScript">JavaScript</a> </dt>
+                    <dd>JavaScript is a high-level programming language widely used for front-end development to add interactivity and dynamic behavior to web pages and applications, making them more engaging and user-friendly. JavaScript can create a wide range of effects, such as animation, form validation, and dynamic updates to a web page without requiring a page refresh. 
+                        JavaScript has become an indispensable tool for front-end developers, and its importance is only growing as the web becomes more complex and dynamic. With the rise of single-page applications and other modern web development trends, JavaScript has become a must-have skill for front-end developers for its versatility, ease of use, and ubiquity.</dd>
+                
+            </dl>
+           
+        </li>
+         <hr>
+         <div class="Front-end">
+            <h2 align="center" id="Front-end">Front-end languages</h2>
+            <img src="html-css-java.jpg" width="325px" height="300px" alt="">
+            <img src="html-css-java1.png" width="325px" height="300px" alt="">
+            <img src="html.png" width="325px" height="300px" alt="">
+            <img src="HTML-CSS.png" width="325px" height="300px" alt="">
+            <img src="css.png" width="325px" height="300px" alt="">
+            <img src="js.png" width="325px" height="300px" alt="">
+            <img src="js-v.png" width="325px" height="300px" alt="">
+            <img src="js3.png" width="325px" height="300px" alt="">
+        </div>
+        <div>
+            <h2 align="center" id="HTML">HyperText Markup Language (HTML)</h2>
+            <img src="html.png" width="325px" height="300px" alt="">
+            <img src="html.png" width="325px" height="300px" alt="">
+            <img src="html.png" width="325px" height="300px" alt="">
+            <img src="html.png" width="325px" height="300px" alt="">
+        </div>
+         <div>
+            <h2 align="center" id="CSS">Cascading Style Sheets(CSS)</h2>
+            <img src="css.png" width="325px" height="300px" alt="">
+            <img src="css.png" width="325px" height="300px" alt="">
+            <img src="css.png" width="325px" height="300px" alt="">
+            <img src="css.png" width="325px" height="300px" alt="">
+        </div>
+         <div>
+            <h2 align="center" id="JavaScript">JavaScript</h2>
+            <img src="js.png" width="325px" height="300px" alt="">
+            <img src="js.png" width="325px" height="300px" alt="">
+            <img src="js.png" width="325px" height="300px" alt="">
+            <img src="js.png" width="325px" height="300px" alt="">
+        </div>
 
+
+        <li><a href="#backend">backend languages</a>
+             <dl>
+                <dt><a href="#php">PHP</a> </dt>
+                    <dd>PHP is the acronym for hypertext preprocessor. This is a scripting language, which means the code you write in this language goes through an interpreter for a computer to read rather than a compiler, where it would translate into machine-readable code. Developers use PHP for server-side functionality, and it makes deploying, or submitting and confirming, your code easier with deployment tools and capabilities. PHP is useful in various areas of development because you can embed PHP code into HTML, which is a front-end tool for designing web applications and pages.</dd>
+               
+                <dt><a href="#java">Java</a></dt> 
+                    <dd>Java is a language for developers who want to create large, dependable web applications that require high-security measures to keep data safe. It's a versatile language you can use with many digital platforms, including mobile devices and computers, to create web, mobile and desktop applications and tools. Java runs on the Java Virtual Machine (JVM), which standardizes the machine on which programmers run code, rather than allowing it to run on each programmer's individual machine.</dd>
+                
+                <dt><a href="#sql">SQL</a> </dt>
+                    <dd>SQL, which stands for structured query language, is a programming language that uses queries, or data requests, to receive information from databases. You can use SQL to get valuable server-side information from databases and use that information to perform tasks that allow the client side of an application or program to run properly. This programming language is especially useful for updating internal databases in a company or retrieving data for clients.</dd>
+                
+            </dl>
+        </li>
+         <hr>
+
+         <div class="backend">
+            <h2 align="center" id="backend">backend languages</h2>
+            <img src="php.png" width="325px" height="300px" alt="">
+            <img src="php1.jpg" width="325px" height="300px" alt="">
+            <img src="php-sql.png" width="325px" height="300px" alt="">
+            <img src="sql.png" width="325px" height="300px" alt="">
+            <img src="java.png" width="325px" height="300px" alt="">
+            <img src="java1.png" width="325px" height="300px" alt="">
+            <img src="java2.png" width="325px" height="300px" alt="">
+            <img src="sql1.png" width="325px" height="300px" alt="">
+        </div>
+        <div>
+            <h2 align="center" id="php">PHP</h2>
+            <img src="php.png" width="325px" height="300px" alt="">
+            <img src="php.png" width="325px" height="300px" alt="">
+            <img src="php.png" width="325px" height="300px" alt="">
+            <img src="php.png" width="325px" height="300px" alt="">
+        </div>
+         <div>
+            <h2 align="center" id="sql">SQL</h2>
+            <img src="sql1.png" width="325px" height="300px" alt="">
+            <img src="sql1.png" width="325px" height="300px" alt="">
+            <img src="sql1.png" width="325px" height="300px" alt="">
+            <img src="sql1.png" width="325px" height="300px" alt="">
+        </div>
+         <div>
+            <h2 align="center" id="java">Java</h2>
+            <img src="java.png" width="325px" height="300px" alt="">
+            <img src="java.png" width="325px" height="300px" alt="">
+            <img src="java.png" width="325px" height="300px" alt="">
+            <img src="java.png" width="325px" height="300px" alt="">
+        </div>
+        <li><a href="#">Others</a>
+             <dl>
+                <dt><a href="#">Python</a> </dt>
+                    <dd>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo in autem ipsam, officiis facere reprehenderit fugit! Temporibus vero adipisci, provident.</dd>
+               
+                <dt><a href="#">Bootstrap</a></dt> 
+                    <dd>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo in autem ipsam, officiis facere reprehenderit fugit! Temporibus vero adipisci, provident.</dd>
+                
+                <dt><a href="#">C#</a> </dt>
+                    <dd>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo in autem ipsam, officiis facere reprehenderit fugit! Temporibus vero adipisci, provident.</dd>
+                
+            </dl>
+        </li>
+         <hr>
+    </ol>
+
+    <div align="center">
+     <form  action="#" method="get" target="_blank" id="form">
+      <fieldset>
+       <legend align="center" id="contact">Contact form</legend>
+        <label for="name">Name:</label>
+       <input type="text" placeholder="Enter your name" id="name" required><br><br>
+       <label for="">Email:</label>
+       <input type="email" placeholder="example@gmail.com"><br><br>
+       <label for="">Password:</label>
+       <input type="password" placeholder="Enter your password"><br><br>
+       <label for="">Contact No:</label>
+       <input type="text"><br><br>
+       <label for="">Gender:</label>
+       <input type="radio" name="gender">
+       <label for="">Male</label>
+       <input type="radio" name="gender">
+       <label for="">Female</label>
+       <input type="radio" name="gender">
+       <label for="">Others</label><br><br>
+       <label for="message">message:</label>
+       <input type="text" placeholder="Enter your message" id="message" required><br><br>
+       <button>Submit</button>
+      </fieldset>
+   </form>
+   </div>
+</body>
+</html>
+<!--
+========================================================================
+                        Name And ID
+========================================================================
+Name:Your Name
+Project Name: Car Project
+ID:WB2302***
+Mentor  Name: Your Mentors Name
+-->
